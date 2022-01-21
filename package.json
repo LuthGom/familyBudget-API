@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/LuthGom/familyBudget-API/issues"
   },
-  "homepage": "https://github.com/LuthGom/familyBudget-API#readme"
+  "homepage": "https://github.com/LuthGom/familyBudget-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "sequelize": "^6.13.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "sequelize-cli": "^6.4.1"
+  }
 }
