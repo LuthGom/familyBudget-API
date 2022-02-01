@@ -86,6 +86,7 @@ e rode o seguinte comando no terminal:</li>
     "descricao": "string",
     "valor": float
 }
+```
 
 ## Para atualizar uma receita ou despesa:
 
