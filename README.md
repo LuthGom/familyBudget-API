@@ -90,7 +90,7 @@ e rode o seguinte comando no terminal:</li>
 
 ## Para atualizar uma receita ou despesa:
 
-<p>Operar o método HTTP Patch no caminho da "url da API" + "/receitas/id" ou "/receitas/id" contendo no corpo da requisição meramente os dados a serem alterados. Exemplo: supondo que apenas o campo senha será alterado: 
+<p>Operar o método HTTP Patch no caminho da "url da API" + "/receitas/id" ou "/receitas/id" contendo no corpo da requisição meramente os dados a serem alterados. Exemplo: supondo que apenas o campo valor será alterado: 
 
         "valor": int
 
